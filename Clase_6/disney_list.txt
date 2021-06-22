@@ -14,6 +14,10 @@ Movie: Song of the South
 Release Date: 1946-11-12
 Genre: Adventure
  
+Movie: Cinderella
+Release Date: 1950-02-15
+Genre: Drama
+ 
 Movie: 20,000 Leagues Under the Sea
 Release Date: 1954-12-23
 Genre: Adventure
@@ -26,32 +30,28 @@ Movie: Lady and the Tramp
 Release Date: 1955-06-22
 Genre: Drama
  
-Movie: Cinderella
-Release Date: 1950-02-15
-Genre: Drama
- 
 Movie: Sleeping Beauty
 Release Date: 1959-01-29
 Genre: Drama
- 
-Movie: Babes in Toyland
-Release Date: 1961-12-14
-Genre: Musical
  
 Movie: The Absent Minded Professor
 Release Date: 1961-03-16
 Genre: Comedy
  
-Movie: 101 Dalmatians
-Release Date: 1961-01-25
+Movie: Bon Voyage!
+Release Date: 1962-05-17
 Genre: Comedy
+ 
+Movie: Babes in Toyland
+Release Date: 1961-12-14
+Genre: Musical
  
 Movie: The Sword in the Stone
 Release Date: 1963-12-25
 Genre: Adventure
  
-Movie: Bon Voyage!
-Release Date: 1962-05-17
+Movie: 101 Dalmatians
+Release Date: 1961-01-25
 Genre: Comedy
  
 Movie: The Aristocats
@@ -62,10 +62,6 @@ Movie: The Jungle Book
 Release Date: 1967-10-18
 Genre: Musical
  
-Movie: Blackbeard's Ghost
-Release Date: 1968-02-08
-Genre: Comedy
- 
 Movie: Bedknobs and Broomsticks
 Release Date: 1971-10-07
 Genre: Musical
@@ -74,13 +70,17 @@ Movie: The Boatniks
 Release Date: 1970-07-01
 Genre: Comedy
  
-Movie: The Apple Dumpling Gang
-Release Date: 1975-07-01
+Movie: Blackbeard's Ghost
+Release Date: 1968-02-08
 Genre: Comedy
  
 Movie: The Many Adventures of Winnie the Pooh
 Release Date: 1977-03-11
 Genre: 
+ 
+Movie: The Apple Dumpling Gang
+Release Date: 1975-07-01
+Genre: Comedy
  
 Movie: Freaky Friday
 Release Date: 1977-01-21
@@ -110,24 +110,20 @@ Movie: The Devil and Max Devlin
 Release Date: 1981-01-01
 Genre: 
  
-Movie: Amy
-Release Date: 1981-03-20
-Genre: Drama
+Movie: The Fox and the Hound
+Release Date: 1981-07-10
+Genre: Comedy
  
 Movie: Condorman
 Release Date: 1981-08-07
 Genre: Action
  
-Movie: The Fox and the Hound
-Release Date: 1981-07-10
-Genre: Comedy
- 
-Movie: Tex
-Release Date: 1982-11-19
-Genre: Drama
- 
 Movie: Night Crossing
 Release Date: 1982-02-05
+Genre: Drama
+ 
+Movie: Amy
+Release Date: 1981-03-20
 Genre: Drama
  
 Movie: Tron
@@ -138,13 +134,17 @@ Movie: Trenchcoat
 Release Date: 1983-03-11
 Genre: Comedy
  
-Movie: Never Cry Wolf
-Release Date: 1983-10-07
+Movie: Tex
+Release Date: 1982-11-19
 Genre: Drama
  
 Movie: Something Wicked This Way Comes
 Release Date: 1983-04-29
 Genre: Horror
+ 
+Movie: Never Cry Wolf
+Release Date: 1983-10-07
+Genre: Drama
  
 Movie: Running Brave
 Release Date: 1983-11-04
@@ -158,36 +158,32 @@ Movie: Baby: Secret of the Lost Legend
 Release Date: 1985-03-22
 Genre: Adventure
  
-Movie: Return to Oz
-Release Date: 1985-06-21
-Genre: Adventure
- 
 Movie: Splash
 Release Date: 1984-03-09
 Genre: Comedy
  
-Movie: The Black Cauldron
-Release Date: 1985-07-24
+Movie: Return to Oz
+Release Date: 1985-06-21
 Genre: Adventure
- 
-Movie: The Journey of Natty Gann
-Release Date: 1985-09-27
-Genre: Drama
  
 Movie: My Science Project
 Release Date: 1985-08-09
 Genre: Comedy
  
-Movie: Down and Out in Beverly Hills
-Release Date: 1986-01-31
-Genre: Comedy
+Movie: The Journey of Natty Gann
+Release Date: 1985-09-27
+Genre: Drama
+ 
+Movie: The Black Cauldron
+Release Date: 1985-07-24
+Genre: Adventure
  
 Movie: One Magic Christmas
 Release Date: 1985-11-22
 Genre: Drama
  
-Movie: Off Beat
-Release Date: 1986-04-11
+Movie: Down and Out in Beverly Hills
+Release Date: 1986-01-31
 Genre: Comedy
  
 Movie: Ruthless People
@@ -198,49 +194,49 @@ Movie: The Great Mouse Detective
 Release Date: 1986-07-02
 Genre: Adventure
  
-Movie: Tough Guys
-Release Date: 1986-10-03
+Movie: Off Beat
+Release Date: 1986-04-11
 Genre: Comedy
  
 Movie: Flight of the Navigator
 Release Date: 1986-07-30
 Genre: Adventure
  
-Movie: Outrageous Fortune
-Release Date: 1987-01-30
+Movie: Tough Guys
+Release Date: 1986-10-03
 Genre: Comedy
  
-Movie: The Color of Money
-Release Date: 1986-10-17
-Genre: Drama
- 
-Movie: Tin Men
-Release Date: 1987-03-06
+Movie: Outrageous Fortune
+Release Date: 1987-01-30
 Genre: Comedy
  
 Movie: Ernest Goes to Camp
 Release Date: 1987-05-22
 Genre: Comedy
  
-Movie: Adventures in Babysitting
-Release Date: 1987-07-03
-Genre: Comedy
- 
-Movie: Stakeout
-Release Date: 1987-08-05
-Genre: Comedy
+Movie: The Color of Money
+Release Date: 1986-10-17
+Genre: Drama
  
 Movie: Benji the Hunted
 Release Date: 1987-06-05
 Genre: Adventure
  
-Movie: Hello Again
-Release Date: 1987-11-06
+Movie: Adventures in Babysitting
+Release Date: 1987-07-03
 Genre: Comedy
  
 Movie: Can't Buy Me Love
 Release Date: 1987-08-14
 Genre: Romantic Comedy
+ 
+Movie: Tin Men
+Release Date: 1987-03-06
+Genre: Comedy
+ 
+Movie: Stakeout
+Release Date: 1987-08-05
+Genre: Comedy
  
 Movie: 3 Men and a Baby
 Release Date: 1987-11-25
@@ -250,10 +246,6 @@ Movie: Good Morning Vietnam
 Release Date: 1987-12-23
 Genre: Comedy
  
-Movie: Return to Snowy River
-Release Date: 1988-04-15
-Genre: Adventure
- 
 Movie: Shoot to Kill
 Release Date: 1988-02-12
 Genre: Action
@@ -261,6 +253,22 @@ Genre: Action
 Movie: D.O.A.
 Release Date: 1988-03-18
 Genre: Thriller/Suspense
+ 
+Movie: Return to Snowy River
+Release Date: 1988-04-15
+Genre: Adventure
+ 
+Movie: Hello Again
+Release Date: 1987-11-06
+Genre: Comedy
+ 
+Movie: Big Business
+Release Date: 1988-06-10
+Genre: Comedy
+ 
+Movie: The Rescue
+Release Date: 1988-08-05
+Genre: Action
  
 Movie: Who Framed Roger Rabbit?
 Release Date: 1988-06-22
@@ -270,57 +278,45 @@ Movie: Cocktail
 Release Date: 1988-07-29
 Genre: Drama
  
-Movie: Big Business
-Release Date: 1988-06-10
-Genre: Comedy
- 
 Movie: Heartbreak Hotel
 Release Date: 1988-09-30
 Genre: Comedy
  
-Movie: The Rescue
-Release Date: 1988-08-05
-Genre: Action
+Movie: Ernest Saves Christmas
+Release Date: 1988-11-11
+Genre: Comedy
  
-Movie: The Good Mother
-Release Date: 1988-11-04
+Movie: Beaches
+Release Date: 1988-12-21
 Genre: Drama
  
 Movie: Oliver & Company
 Release Date: 1988-11-18
 Genre: Adventure
  
-Movie: Beaches
-Release Date: 1988-12-21
-Genre: Drama
- 
-Movie: Ernest Saves Christmas
-Release Date: 1988-11-11
+Movie: Three Fugitives
+Release Date: 1989-01-27
 Genre: Comedy
+ 
+Movie: The Good Mother
+Release Date: 1988-11-04
+Genre: Drama
  
 Movie: New York Stories
 Release Date: 1989-03-01
 Genre: Drama
  
-Movie: Three Fugitives
-Release Date: 1989-01-27
-Genre: Comedy
- 
-Movie: Disorganized Crime
-Release Date: 1989-04-14
-Genre: Comedy
+Movie: Dead Poets Society
+Release Date: 1989-06-02
+Genre: Drama
  
 Movie: Honey, I Shrunk the Kids
 Release Date: 1989-06-23
 Genre: Adventure
  
-Movie: Dead Poets Society
-Release Date: 1989-06-02
-Genre: Drama
- 
-Movie: Cheetah
-Release Date: 1989-08-18
-Genre: Adventure
+Movie: Disorganized Crime
+Release Date: 1989-04-14
+Genre: Comedy
  
 Movie: Turner & Hooch
 Release Date: 1989-07-28
@@ -330,21 +326,29 @@ Movie: An Innocent Man
 Release Date: 1989-10-06
 Genre: Drama
  
+Movie: Gross Anatomy
+Release Date: 1989-10-20
+Genre: Drama
+ 
 Movie: The Little Mermaid
 Release Date: 1989-11-15
 Genre: Adventure
+ 
+Movie: Cheetah
+Release Date: 1989-08-18
+Genre: Adventure
+ 
+Movie: Where the Heart Is
+Release Date: 1990-02-23
+Genre: Comedy
  
 Movie: Blaze
 Release Date: 1989-12-13
 Genre: Drama
  
-Movie: Gross Anatomy
-Release Date: 1989-10-20
+Movie: Stella
+Release Date: 1990-02-02
 Genre: Drama
- 
-Movie: Where the Heart Is
-Release Date: 1990-02-23
-Genre: Comedy
  
 Movie: Pretty Woman
 Release Date: 1990-03-23
@@ -354,25 +358,21 @@ Movie: Ernest Goes to Jail
 Release Date: 1990-04-06
 Genre: Comedy
  
-Movie: Stella
-Release Date: 1990-02-02
-Genre: Drama
+Movie: Fire Birds
+Release Date: 1990-05-24
+Genre: Action
  
 Movie: Spaced Invaders
 Release Date: 1990-04-27
 Genre: Comedy
  
-Movie: Betsy's Wedding
-Release Date: 1990-06-22
-Genre: Comedy
- 
-Movie: Fire Birds
-Release Date: 1990-05-24
-Genre: Action
- 
 Movie: Dick Tracy
 Release Date: 1990-06-15
 Genre: Action
+ 
+Movie: Betsy's Wedding
+Release Date: 1990-06-22
+Genre: Comedy
  
 Movie: DuckTales: The Movie - Treasure of th…
 Release Date: 1990-08-03
@@ -382,77 +382,77 @@ Movie: Arachnophobia
 Release Date: 1990-07-18
 Genre: Thriller/Suspense
  
-Movie: Mr. Destiny
-Release Date: 1990-10-12
+Movie: Taking Care of Business
+Release Date: 1990-08-17
 Genre: Comedy
  
 Movie: The Rescuers Down Under
 Release Date: 1990-11-16
 Genre: Adventure
  
-Movie: Taking Care of Business
-Release Date: 1990-08-17
-Genre: Comedy
- 
 Movie: 3 Men and a Little Lady
 Release Date: 1990-11-21
+Genre: Comedy
+ 
+Movie: Mr. Destiny
+Release Date: 1990-10-12
 Genre: Comedy
  
 Movie: Green Card
 Release Date: 1990-12-25
 Genre: Romantic Comedy
  
-Movie: Scenes from a Mall
-Release Date: 1991-02-22
-Genre: Comedy
- 
 Movie: Haakon Haakonsen
 Release Date: 1991-03-01
 Genre: Adventure
  
-Movie: White Fang
-Release Date: 1991-01-18
-Genre: Adventure
+Movie: Scenes from a Mall
+Release Date: 1991-02-22
+Genre: Comedy
  
 Movie: The Marrying Man
 Release Date: 1991-04-05
 Genre: Romantic Comedy
  
-Movie: One Good Cop
-Release Date: 1991-05-03
-Genre: Action
- 
-Movie: Wild Hearts Can't Be Broken
-Release Date: 1991-05-24
-Genre: Drama
- 
 Movie: Oscar
 Release Date: 1991-04-26
 Genre: Comedy
  
-Movie: The Rocketeer
-Release Date: 1991-06-21
-Genre: Action
+Movie: White Fang
+Release Date: 1991-01-18
+Genre: Adventure
  
 Movie: What About Bob?
 Release Date: 1991-05-17
 Genre: Comedy
  
-Movie: Paradise
-Release Date: 1991-09-18
+Movie: Wild Hearts Can't Be Broken
+Release Date: 1991-05-24
 Genre: Drama
  
-Movie: Deceived
-Release Date: 1991-09-27
-Genre: Thriller/Suspense
+Movie: The Rocketeer
+Release Date: 1991-06-21
+Genre: Action
  
 Movie: The Doctor
 Release Date: 1991-07-24
 Genre: Drama
  
+Movie: One Good Cop
+Release Date: 1991-05-03
+Genre: Action
+ 
+Movie: Deceived
+Release Date: 1991-09-27
+Genre: Thriller/Suspense
+ 
 Movie: Ernest Scared Stupid
 Release Date: 1991-10-11
 Genre: Comedy
+ 
+Movie: Paradise
+Release Date: 1991-09-18
+Genre: Drama
  
 Movie: Billy Bathgate
 Release Date: 1991-11-01
@@ -474,6 +474,10 @@ Movie: Blame it on the Bellboy
 Release Date: 1992-03-06
 Genre: Comedy
  
+Movie: Medicine Man
+Release Date: 1992-02-07
+Genre: Drama
+ 
 Movie: Noises Off...
 Release Date: 1992-03-20
 Genre: Comedy
@@ -482,17 +486,13 @@ Movie: Straight Talk
 Release Date: 1992-04-03
 Genre: Comedy
  
-Movie: Medicine Man
-Release Date: 1992-02-07
-Genre: Drama
+Movie: Newsies
+Release Date: 1992-04-08
+Genre: 
  
 Movie: Passed Away
 Release Date: 1992-04-24
 Genre: 
- 
-Movie: Encino Man
-Release Date: 1992-05-22
-Genre: Comedy
  
 Movie: Sister Act
 Release Date: 1992-05-29
@@ -502,81 +502,77 @@ Movie: Honey I Blew Up the Kid
 Release Date: 1992-07-17
 Genre: Comedy
  
-Movie: Newsies
-Release Date: 1992-04-08
-Genre: 
- 
 Movie: A Stranger Among Us
 Release Date: 1992-07-17
-Genre: Drama
- 
-Movie: A Gun in Betty Lou's Handbag
-Release Date: 1992-08-21
-Genre: 
- 
-Movie: Captain Ron
-Release Date: 1992-09-18
-Genre: Comedy
- 
-Movie: Innocent Blood
-Release Date: 1992-09-25
-Genre: Horror
- 
-Movie: Sarafina!
-Release Date: 1992-09-18
 Genre: Drama
  
 Movie: 3 Ninjas
 Release Date: 1992-08-07
 Genre: Action
  
+Movie: Encino Man
+Release Date: 1992-05-22
+Genre: Comedy
+ 
+Movie: A Gun in Betty Lou's Handbag
+Release Date: 1992-08-21
+Genre: 
+ 
+Movie: Sarafina!
+Release Date: 1992-09-18
+Genre: Drama
+ 
+Movie: Innocent Blood
+Release Date: 1992-09-25
+Genre: Horror
+ 
+Movie: The Mighty Ducks
+Release Date: 1992-10-02
+Genre: Comedy
+ 
+Movie: Captain Ron
+Release Date: 1992-09-18
+Genre: Comedy
+ 
 Movie: 1492: Conquest of Paradise
 Release Date: 1992-10-09
 Genre: Adventure
  
-Movie: The Mighty Ducks
-Release Date: 1992-10-02
+Movie: Aladdin
+Release Date: 1992-11-11
 Genre: Comedy
  
 Movie: The Distinguished Gentleman
 Release Date: 1992-12-04
 Genre: Comedy
  
-Movie: Consenting Adults
-Release Date: 1992-10-16
-Genre: Drama
- 
 Movie: The Muppet Christmas Carol
 Release Date: 1992-12-11
-Genre: Comedy
- 
-Movie: Aladdin
-Release Date: 1992-11-11
 Genre: Comedy
  
 Movie: Alive
 Release Date: 1993-01-15
 Genre: Adventure
  
-Movie: Homeward Bound: The Incredible Journey
-Release Date: 1993-02-03
-Genre: Adventure
- 
-Movie: Swing Kids
-Release Date: 1993-03-05
-Genre: Musical
+Movie: Consenting Adults
+Release Date: 1992-10-16
+Genre: Drama
  
 Movie: Aspen Extreme
 Release Date: 1993-01-22
 Genre: Romantic Comedy
  
-Movie: A Far Off Place
-Release Date: 1993-03-12
+Movie: Homeward Bound: The Incredible Journey
+Release Date: 1993-02-03
 Genre: Adventure
  
 Movie: The Cemetery Club
 Release Date: 1993-02-03
 Genre: Comedy
+ 
+Movie: A Far Off Place
+Release Date: 1993-03-12
+Genre: Adventure
  
 Movie: Born Yesterday
 Release Date: 1993-03-26
@@ -586,29 +582,33 @@ Movie: The Adventures of Huck Finn
 Release Date: 1993-04-02
 Genre: Adventure
  
-Movie: Bound by Honor
-Release Date: 1993-04-16
-Genre: 
+Movie: Swing Kids
+Release Date: 1993-03-05
+Genre: Musical
  
 Movie: Indian Summer
 Release Date: 1993-04-23
 Genre: Comedy
  
-Movie: Life With Mikey
-Release Date: 1993-06-04
-Genre: Comedy
+Movie: Super Mario Bros.
+Release Date: 1993-05-28
+Genre: Action
  
 Movie: Guilty as Sin
 Release Date: 1993-06-04
 Genre: Thriller/Suspense
  
+Movie: Bound by Honor
+Release Date: 1993-04-16
+Genre: 
+ 
+Movie: Life With Mikey
+Release Date: 1993-06-04
+Genre: Comedy
+ 
 Movie: What's Love Got to Do With It
 Release Date: 1993-06-09
 Genre: Drama
- 
-Movie: Son in Law
-Release Date: 1993-07-02
-Genre: Comedy
  
 Movie: Hocus Pocus
 Release Date: 1993-07-16
@@ -618,29 +618,29 @@ Movie: Another Stakeout
 Release Date: 1993-07-23
 Genre: Comedy
  
-Movie: Super Mario Bros.
-Release Date: 1993-05-28
-Genre: Action
+Movie: Father Hood
+Release Date: 1993-08-27
+Genre: 
+ 
+Movie: Son in Law
+Release Date: 1993-07-02
+Genre: Comedy
  
 Movie: My Boyfriend's Back
 Release Date: 1993-08-06
 Genre: 
  
-Movie: The Joy Luck Club
-Release Date: 1993-09-08
-Genre: Drama
- 
 Movie: Money for Nothing
 Release Date: 1993-09-10
 Genre: Comedy
  
-Movie: Father Hood
-Release Date: 1993-08-27
-Genre: 
+Movie: The Program
+Release Date: 1993-09-24
+Genre: Action
  
-Movie: Cool Runnings
-Release Date: 1993-10-01
-Genre: Comedy
+Movie: The Joy Luck Club
+Release Date: 1993-09-08
+Genre: Drama
  
 Movie: The Nightmare Before Christmas
 Release Date: 1993-10-13
@@ -654,9 +654,17 @@ Movie: Sister Act 2 Back in the Habit
 Release Date: 1993-12-10
 Genre: Comedy
  
-Movie: The Program
-Release Date: 1993-09-24
-Genre: Action
+Movie: Tombstone
+Release Date: 1993-12-25
+Genre: Western
+ 
+Movie: Cool Runnings
+Release Date: 1993-10-01
+Genre: Comedy
+ 
+Movie: Red Rock West
+Release Date: 1994-01-28
+Genre: 
  
 Movie: The Air Up There
 Release Date: 1994-01-07
@@ -666,45 +674,29 @@ Movie: Iron Will
 Release Date: 1994-01-14
 Genre: Drama
  
-Movie: Tombstone
-Release Date: 1993-12-25
-Genre: Western
- 
-Movie: Cabin Boy
-Release Date: 1994-01-07
-Genre: Comedy
- 
 Movie: Blank Check
 Release Date: 1994-02-11
 Genre: Comedy
  
-Movie: Red Rock West
-Release Date: 1994-01-28
-Genre: 
- 
-Movie: The Ref
-Release Date: 1994-03-09
+Movie: Angie
+Release Date: 1994-03-04
 Genre: Comedy
  
-Movie: D2: The Mighty Ducks
-Release Date: 1994-03-25
+Movie: Cabin Boy
+Release Date: 1994-01-07
 Genre: Comedy
  
 Movie: Holy Matrimony
 Release Date: 1994-04-08
 Genre: Comedy
  
+Movie: D2: The Mighty Ducks
+Release Date: 1994-03-25
+Genre: Comedy
+ 
 Movie: White Fang 2: Myth of the White Wolf
 Release Date: 1994-04-15
 Genre: Adventure
- 
-Movie: 3 Ninjas Kick Back
-Release Date: 1994-05-06
-Genre: Action
- 
-Movie: Angie
-Release Date: 1994-03-04
-Genre: Comedy
  
 Movie: The Inkwell
 Release Date: 1994-04-22
@@ -714,41 +706,49 @@ Movie: When a Man Loves a Woman
 Release Date: 1994-04-29
 Genre: Drama
  
+Movie: 3 Ninjas Kick Back
+Release Date: 1994-05-06
+Genre: Action
+ 
+Movie: Renaissance Man
+Release Date: 1994-06-03
+Genre: Comedy
+ 
+Movie: The Ref
+Release Date: 1994-03-09
+Genre: Comedy
+ 
 Movie: The Lion King
 Release Date: 1994-06-15
 Genre: Adventure
- 
-Movie: I Love Trouble
-Release Date: 1994-06-29
-Genre: Romantic Comedy
- 
-Movie: In the Army Now
-Release Date: 1994-08-12
-Genre: Comedy
  
 Movie: Angels in the Outfield
 Release Date: 1994-07-15
 Genre: Comedy
  
+Movie: In the Army Now
+Release Date: 1994-08-12
+Genre: Comedy
+ 
+Movie: I Love Trouble
+Release Date: 1994-06-29
+Genre: Romantic Comedy
+ 
 Movie: Color of Night
 Release Date: 1994-08-19
 Genre: Thriller/Suspense
  
-Movie: Camp Nowhere
+Movie: It's Pat
 Release Date: 1994-08-26
 Genre: Comedy
  
-Movie: It's Pat
+Movie: Camp Nowhere
 Release Date: 1994-08-26
 Genre: Comedy
  
 Movie: Quiz Show
 Release Date: 1994-09-14
 Genre: Drama
- 
-Movie: Renaissance Man
-Release Date: 1994-06-03
-Genre: Comedy
  
 Movie: Terminal Velocity
 Release Date: 1994-09-23
@@ -758,13 +758,13 @@ Movie: A Simple Twist of Fate
 Release Date: 1994-09-02
 Genre: Drama
  
-Movie: Squanto: A Warrior's Tale
-Release Date: 1994-10-28
-Genre: Drama
- 
 Movie: The Puppet Masters
 Release Date: 1994-10-21
 Genre: Horror
+ 
+Movie: Squanto: A Warrior's Tale
+Release Date: 1994-10-28
+Genre: Drama
  
 Movie: The Santa Clause
 Release Date: 1994-11-11
@@ -774,6 +774,10 @@ Movie: A Low Down Dirty Shame
 Release Date: 1994-11-23
 Genre: Action
  
+Movie: Ed Wood
+Release Date: 1994-09-30
+Genre: Comedy
+ 
 Movie: The Jungle Book
 Release Date: 1994-12-25
 Genre: Adventure
@@ -782,37 +786,33 @@ Movie: Bad Company
 Release Date: 1995-01-20
 Genre: Thriller/Suspense
  
-Movie: Miami Rhapsody
-Release Date: 1995-01-27
-Genre: Romantic Comedy
- 
 Movie: The Jerky Boys
 Release Date: 1995-02-03
 Genre: Comedy
  
-Movie: Ed Wood
-Release Date: 1994-09-30
-Genre: Comedy
+Movie: Miami Rhapsody
+Release Date: 1995-01-27
+Genre: Romantic Comedy
  
 Movie: Houseguest
 Release Date: 1995-01-06
-Genre: Comedy
- 
-Movie: Heavy Weights
-Release Date: 1995-02-17
-Genre: Comedy
- 
-Movie: Roommates
-Release Date: 1995-03-03
 Genre: Comedy
  
 Movie: Man of the House
 Release Date: 1995-03-03
 Genre: Comedy
  
+Movie: Heavy Weights
+Release Date: 1995-02-17
+Genre: Comedy
+ 
 Movie: A Pyromaniac's Love Story
 Release Date: 1995-03-28
 Genre: Romantic Comedy
+ 
+Movie: Tall Tale
+Release Date: 1995-03-24
+Genre: Western
  
 Movie: Jefferson in Paris
 Release Date: 1995-03-31
@@ -822,33 +822,29 @@ Movie: Funny Bones
 Release Date: 1995-03-31
 Genre: Comedy
  
-Movie: Tall Tale
-Release Date: 1995-03-24
-Genre: Western
- 
 Movie: A Goofy Movie
 Release Date: 1995-04-07
 Genre: Comedy
- 
-Movie: Crimson Tide
-Release Date: 1995-05-12
-Genre: Action
  
 Movie: While You Were Sleeping
 Release Date: 1995-04-21
 Genre: Romantic Comedy
  
-Movie: Judge Dredd
-Release Date: 1995-06-30
+Movie: Crimson Tide
+Release Date: 1995-05-12
 Genre: Action
+ 
+Movie: Mad Love
+Release Date: 1995-05-26
+Genre: Drama
+ 
+Movie: Roommates
+Release Date: 1995-03-03
+Genre: Comedy
  
 Movie: Pocahontas
 Release Date: 1995-06-10
 Genre: Adventure
- 
-Movie: Dangerous Minds
-Release Date: 1995-08-11
-Genre: Drama
  
 Movie: Operation Dumbo Drop
 Release Date: 1995-07-28
@@ -858,81 +854,89 @@ Movie: A Kid in King Arthur's Court
 Release Date: 1995-08-11
 Genre: Adventure
  
-Movie: Mad Love
-Release Date: 1995-05-26
+Movie: Dangerous Minds
+Release Date: 1995-08-11
 Genre: Drama
  
 Movie: The Tie That Binds
 Release Date: 1995-09-08
 Genre: Thriller/Suspense
  
-Movie: Unstrung Heroes
-Release Date: 1995-09-15
-Genre: Drama
+Movie: Judge Dredd
+Release Date: 1995-06-30
+Genre: Action
  
 Movie: The Big Green
 Release Date: 1995-09-29
 Genre: Comedy
  
-Movie: Dead Presidents
-Release Date: 1995-10-04
+Movie: Unstrung Heroes
+Release Date: 1995-09-15
 Genre: Drama
  
 Movie: The Scarlet Letter
 Release Date: 1995-10-13
 Genre: Drama
  
-Movie: Father of the Bride Part II
-Release Date: 1995-12-08
-Genre: Comedy
+Movie: Powder
+Release Date: 1995-10-27
+Genre: Drama
+ 
+Movie: Dead Presidents
+Release Date: 1995-10-04
+Genre: Drama
  
 Movie: Toy Story
 Release Date: 1995-11-22
 Genre: Adventure
  
-Movie: Feast of July
-Release Date: 1995-10-13
-Genre: Drama
- 
-Movie: Nixon
-Release Date: 1995-12-20
-Genre: Drama
+Movie: Father of the Bride Part II
+Release Date: 1995-12-08
+Genre: Comedy
  
 Movie: Tom and Huck
 Release Date: 1995-12-22
 Genre: Adventure
  
+Movie: Nixon
+Release Date: 1995-12-20
+Genre: Drama
+ 
+Movie: Feast of July
+Release Date: 1995-10-13
+Genre: Drama
+ 
 Movie: Mr. Holland's Opus
 Release Date: 1995-12-29
 Genre: Drama
- 
-Movie: White Squall
-Release Date: 1996-02-02
-Genre: Adventure
- 
-Movie: Powder
-Release Date: 1995-10-27
-Genre: Drama
- 
-Movie: Mr. Wrong
-Release Date: 1996-02-16
-Genre: Romantic Comedy
  
 Movie: Muppet Treasure Island
 Release Date: 1996-02-16
 Genre: Adventure
  
-Movie: Up Close & Personal
-Release Date: 1996-03-01
-Genre: Drama
+Movie: Mr. Wrong
+Release Date: 1996-02-16
+Genre: Romantic Comedy
  
 Movie: Before and After
 Release Date: 1996-02-23
 Genre: Drama
  
+Movie: Up Close & Personal
+Release Date: 1996-03-01
+Genre: Drama
+ 
 Movie: Homeward Bound II: Lost in San Franc…
 Release Date: 1996-03-08
 Genre: Adventure
+ 
+Movie: White Squall
+Release Date: 1996-02-02
+Genre: Adventure
+ 
+Movie: Two Much
+Release Date: 1996-03-15
+Genre: Romantic Comedy
  
 Movie: Un indien dans la ville
 Release Date: 1996-03-22
@@ -946,10 +950,6 @@ Movie: Celtic Pride
 Release Date: 1996-04-19
 Genre: Comedy
  
-Movie: Two Much
-Release Date: 1996-03-15
-Genre: Romantic Comedy
- 
 Movie: Last Dance
 Release Date: 1996-05-03
 Genre: Drama
@@ -958,6 +958,10 @@ Movie: Boys
 Release Date: 1996-05-10
 Genre: Drama
  
+Movie: Eddie
+Release Date: 1996-05-31
+Genre: Comedy
+ 
 Movie: Spy Hard
 Release Date: 1996-05-24
 Genre: Comedy
@@ -965,10 +969,6 @@ Genre: Comedy
 Movie: The Hunchback of Notre Dame
 Release Date: 1996-06-21
 Genre: Adventure
- 
-Movie: Eddie
-Release Date: 1996-05-31
-Genre: Comedy
  
 Movie: The Rock
 Release Date: 1996-06-07
@@ -982,41 +982,41 @@ Movie: Jack
 Release Date: 1996-08-09
 Genre: Drama
  
-Movie: Kazaam
-Release Date: 1996-07-17
-Genre: Comedy
- 
 Movie: First Kid
 Release Date: 1996-08-30
-Genre: Comedy
- 
-Movie: D3: The Mighty Ducks
-Release Date: 1996-10-04
 Genre: Comedy
  
 Movie: The Rich Man's Wife
 Release Date: 1996-09-13
 Genre: Thriller/Suspense
  
-Movie: Ransom
-Release Date: 1996-11-08
-Genre: Action
+Movie: Kazaam
+Release Date: 1996-07-17
+Genre: Comedy
+ 
+Movie: D3: The Mighty Ducks
+Release Date: 1996-10-04
+Genre: Comedy
  
 Movie: The Associate
 Release Date: 1996-10-25
 Genre: Comedy
  
-Movie: The Preacher's Wife
-Release Date: 1996-12-13
-Genre: Drama
+Movie: 101 Dalmatians
+Release Date: 1996-11-27
+Genre: Comedy
+ 
+Movie: Ransom
+Release Date: 1996-11-08
+Genre: Action
  
 Movie: The War at Home
 Release Date: 1996-11-20
 Genre: 
  
-Movie: 101 Dalmatians
-Release Date: 1996-11-27
-Genre: Comedy
+Movie: The Preacher's Wife
+Release Date: 1996-12-13
+Genre: Drama
  
 Movie: Evita
 Release Date: 1996-12-25
@@ -1030,29 +1030,33 @@ Movie: Shadow Conspiracy
 Release Date: 1997-01-31
 Genre: Thriller/Suspense
  
-Movie: Jungle 2 Jungle
-Release Date: 1997-03-07
-Genre: Comedy
- 
 Movie: That Darn Cat
 Release Date: 1997-02-14
+Genre: Comedy
+ 
+Movie: Jungle 2 Jungle
+Release Date: 1997-03-07
 Genre: Comedy
  
 Movie: Grosse Pointe Blank
 Release Date: 1997-04-11
 Genre: Black Comedy
  
-Movie: The Sixth Man
-Release Date: 1997-03-28
-Genre: Comedy
- 
 Movie: Metro
 Release Date: 1997-01-17
 Genre: Action
  
+Movie: The Sixth Man
+Release Date: 1997-03-28
+Genre: Comedy
+ 
 Movie: Romy and Michele's High School Reunion
 Release Date: 1997-04-25
 Genre: Comedy
+ 
+Movie: Con Air
+Release Date: 1997-06-06
+Genre: Action
  
 Movie: Gone Fishin'
 Release Date: 1997-05-30
@@ -1070,10 +1074,6 @@ Movie: Nothing To Lose
 Release Date: 1997-07-18
 Genre: Comedy
  
-Movie: Air Bud
-Release Date: 1997-08-01
-Genre: Comedy
- 
 Movie: G.I. Jane
 Release Date: 1997-08-22
 Genre: Drama
@@ -1086,10 +1086,6 @@ Movie: Washington Square
 Release Date: 1997-10-05
 Genre: Drama
  
-Movie: Con Air
-Release Date: 1997-06-06
-Genre: Action
- 
 Movie: Rocket Man
 Release Date: 1997-10-10
 Genre: Comedy
@@ -1097,6 +1093,10 @@ Genre: Comedy
 Movie: Playing God
 Release Date: 1997-10-17
 Genre: Thriller/Suspense
+ 
+Movie: Flubber
+Release Date: 1997-11-26
+Genre: Comedy
  
 Movie: An American Werewolf in Paris
 Release Date: 1997-12-25
@@ -1110,16 +1110,20 @@ Movie: Mr. Magoo
 Release Date: 1997-12-25
 Genre: Comedy
  
-Movie: Krippendorf's Tribe
-Release Date: 1998-02-27
-Genre: Comedy
- 
 Movie: Deep Rising
 Release Date: 1998-01-30
 Genre: Action
  
+Movie: Krippendorf's Tribe
+Release Date: 1998-02-27
+Genre: Comedy
+ 
 Movie: An Alan Smithee Film: Burn Hollywood …
 Release Date: 1998-02-27
+Genre: Comedy
+ 
+Movie: Air Bud
+Release Date: 1997-08-01
 Genre: Comedy
  
 Movie: Meet the Deedles
@@ -1130,40 +1134,40 @@ Movie: The Horse Whisperer
 Release Date: 1998-05-15
 Genre: Drama
  
-Movie: Flubber
-Release Date: 1997-11-26
-Genre: Comedy
- 
-Movie: He Got Game
-Release Date: 1998-05-01
-Genre: Drama
- 
 Movie: Six Days, Seven Nights
 Release Date: 1998-06-12
 Genre: Romantic Comedy
- 
-Movie: Jane Austen's Mafia
-Release Date: 1998-07-24
-Genre: Comedy
  
 Movie: Mulan
 Release Date: 1998-06-19
 Genre: Adventure
  
-Movie: The Parent Trap
-Release Date: 1998-07-29
-Genre: Comedy
- 
 Movie: Armageddon
 Release Date: 1998-07-01
 Genre: Adventure
  
-Movie: Holy Man
-Release Date: 1998-10-09
+Movie: Jane Austen's Mafia
+Release Date: 1998-07-24
 Genre: Comedy
+ 
+Movie: The Parent Trap
+Release Date: 1998-07-29
+Genre: Comedy
+ 
+Movie: Firelight
+Release Date: 1998-09-04
+Genre: Drama
  
 Movie: Simon Birch
 Release Date: 1998-09-11
+Genre: Drama
+ 
+Movie: Beloved
+Release Date: 1998-10-16
+Genre: Drama
+ 
+Movie: He Got Game
+Release Date: 1998-05-01
 Genre: Drama
  
 Movie: The Waterboy
@@ -1174,45 +1178,37 @@ Movie: I'll Be Home For Christmas
 Release Date: 1998-11-13
 Genre: Comedy
  
-Movie: Beloved
-Release Date: 1998-10-16
-Genre: Drama
+Movie: A Bug's Life
+Release Date: 1998-11-20
+Genre: Adventure
  
-Movie: Firelight
-Release Date: 1998-09-04
+Movie: Enemy of the State
+Release Date: 1998-11-20
+Genre: Action
+ 
+Movie: A Civil Action
+Release Date: 1998-12-25
 Genre: Drama
  
 Movie: Rushmore
 Release Date: 1998-12-11
 Genre: Black Comedy
  
-Movie: Enemy of the State
-Release Date: 1998-11-20
-Genre: Action
- 
 Movie: Mighty Joe Young
 Release Date: 1998-12-25
-Genre: Adventure
- 
-Movie: A Bug's Life
-Release Date: 1998-11-20
 Genre: Adventure
  
 Movie: My Favorite Martian
 Release Date: 1999-02-12
 Genre: Comedy
  
-Movie: The Other Sister
-Release Date: 1999-02-26
-Genre: Romantic Comedy
- 
-Movie: A Civil Action
-Release Date: 1998-12-25
-Genre: Drama
- 
 Movie: Doug's 1st Movie
 Release Date: 1999-03-26
 Genre: Adventure
+ 
+Movie: The Other Sister
+Release Date: 1999-02-26
+Genre: Romantic Comedy
  
 Movie: Ten Things I Hate About You
 Release Date: 1999-03-31
@@ -1222,21 +1218,29 @@ Movie: Endurance
 Release Date: 1999-05-14
 Genre: 
  
-Movie: Instinct
-Release Date: 1999-06-04
-Genre: Drama
+Movie: Holy Man
+Release Date: 1998-10-09
+Genre: Comedy
  
 Movie: Tarzan
 Release Date: 1999-06-16
 Genre: Adventure
  
+Movie: Inspector Gadget
+Release Date: 1999-07-23
+Genre: Comedy
+ 
+Movie: Summer of Sam
+Release Date: 1999-07-02
+Genre: Drama
+ 
 Movie: The Sixth Sense
 Release Date: 1999-08-06
 Genre: Thriller/Suspense
  
-Movie: Inspector Gadget
-Release Date: 1999-07-23
-Genre: Comedy
+Movie: Instinct
+Release Date: 1999-06-04
+Genre: Drama
  
 Movie: The 13th Warrior
 Release Date: 1999-08-27
@@ -1244,10 +1248,6 @@ Genre: Action
  
 Movie: Breakfast of Champions
 Release Date: 1999-09-17
-Genre: Comedy
- 
-Movie: Mumford
-Release Date: 1999-09-24
 Genre: Comedy
  
 Movie: Mystery, Alaska
@@ -1258,16 +1258,28 @@ Movie: The Straight Story
 Release Date: 1999-10-15
 Genre: Drama
  
+Movie: Mumford
+Release Date: 1999-09-24
+Genre: Comedy
+ 
 Movie: The Insider
 Release Date: 1999-11-05
 Genre: Drama
  
-Movie: Summer of Sam
-Release Date: 1999-07-02
-Genre: Drama
+Movie: Toy Story 2
+Release Date: 1999-11-19
+Genre: Adventure
  
 Movie: Cradle Will Rock
 Release Date: 1999-12-08
+Genre: Drama
+ 
+Movie: Play it to the Bone
+Release Date: 1999-12-24
+Genre: Comedy
+ 
+Movie: Bicentennial Man
+Release Date: 1999-12-17
 Genre: Drama
  
 Movie: Deuce Bigalow: Male Gigolo
@@ -1278,33 +1290,25 @@ Movie: Fantasia 2000 (IMAX)
 Release Date: 2000-01-01
 Genre: Musical
  
-Movie: Toy Story 2
-Release Date: 1999-11-19
-Genre: Adventure
- 
-Movie: Play it to the Bone
-Release Date: 1999-12-24
+Movie: Gun Shy
+Release Date: 2000-02-04
 Genre: Comedy
  
 Movie: The Tigger Movie
 Release Date: 2000-02-11
 Genre: Adventure
  
-Movie: Gun Shy
-Release Date: 2000-02-04
-Genre: Comedy
- 
-Movie: Bicentennial Man
-Release Date: 1999-12-17
-Genre: Drama
+Movie: Keeping the Faith
+Release Date: 2000-04-14
+Genre: Romantic Comedy
  
 Movie: Mission to Mars
 Release Date: 2000-03-10
 Genre: Adventure
  
-Movie: Keeping the Faith
-Release Date: 2000-04-14
-Genre: Romantic Comedy
+Movie: Shanghai Noon
+Release Date: 2000-05-26
+Genre: Western
  
 Movie: Dinosaur
 Release Date: 2000-05-19
@@ -1314,10 +1318,6 @@ Movie: High Fidelity
 Release Date: 2000-03-31
 Genre: Comedy
  
-Movie: Shanghai Noon
-Release Date: 2000-05-26
-Genre: Western
- 
 Movie: Gone in 60 Seconds
 Release Date: 2000-06-09
 Genre: Action
@@ -1326,8 +1326,8 @@ Movie: Fantasia 2000 (Theatrical Release)
 Release Date: 2000-06-16
 Genre: Musical
  
-Movie: The Kid
-Release Date: 2000-07-07
+Movie: The Crew
+Release Date: 2000-08-25
 Genre: Comedy
  
 Movie: Coyote Ugly
@@ -1338,97 +1338,101 @@ Movie: Remember the Titans
 Release Date: 2000-09-29
 Genre: Drama
  
-Movie: The Crew
-Release Date: 2000-08-25
-Genre: Comedy
- 
-Movie: 102 Dalmatians
-Release Date: 2000-11-22
+Movie: The Kid
+Release Date: 2000-07-07
 Genre: Comedy
  
 Movie: Unbreakable
 Release Date: 2000-11-22
 Genre: Thriller/Suspense
  
+Movie: 102 Dalmatians
+Release Date: 2000-11-22
+Genre: Comedy
+ 
 Movie: The Emperor's New Groove
 Release Date: 2000-12-15
 Genre: Adventure
- 
-Movie: O Brother, Where Art Thou?
-Release Date: 2000-12-22
-Genre: Comedy
- 
-Movie: Recess: School's Out
-Release Date: 2001-02-16
-Genre: Comedy
  
 Movie: Double Take
 Release Date: 2001-01-12
 Genre: Action
  
-Movie: Just Visiting
-Release Date: 2001-04-06
+Movie: O Brother, Where Art Thou?
+Release Date: 2000-12-22
 Genre: Comedy
  
 Movie: Duets
 Release Date: 2000-09-15
 Genre: Drama
  
+Movie: Recess: School's Out
+Release Date: 2001-02-16
+Genre: Comedy
+ 
 Movie: Atlantis: The Lost Empire
 Release Date: 2001-06-08
 Genre: Adventure
- 
-Movie: The Princess Diaries
-Release Date: 2001-08-03
-Genre: Comedy
  
 Movie: Pearl Harbor
 Release Date: 2001-05-25
 Genre: Action
  
-Movie: crazy/beautiful
-Release Date: 2001-06-29
-Genre: Drama
+Movie: Just Visiting
+Release Date: 2001-04-06
+Genre: Comedy
  
-Movie: Max Keeble's Big Move
-Release Date: 2001-10-05
+Movie: The Princess Diaries
+Release Date: 2001-08-03
 Genre: Comedy
  
 Movie: Bubble Boy
 Release Date: 2001-08-24
 Genre: Comedy
  
-Movie: Corky Romano
-Release Date: 2001-10-12
+Movie: Max Keeble's Big Move
+Release Date: 2001-10-05
 Genre: Comedy
  
-Movie: High Heels and Low Lifes
-Release Date: 2001-10-26
-Genre: 
+Movie: crazy/beautiful
+Release Date: 2001-06-29
+Genre: Drama
  
 Movie: Monsters, Inc.
 Release Date: 2001-11-02
 Genre: Adventure
  
-Movie: The Royal Tenenbaums
-Release Date: 2001-12-14
-Genre: Black Comedy
- 
-Movie: Beauty and the Beast (IMAX)
-Release Date: 2002-01-01
-Genre: Musical
- 
-Movie: Frank McKlusky C.I.
-Release Date: 2002-01-01
+Movie: High Heels and Low Lifes
+Release Date: 2001-10-26
 Genre: 
  
 Movie: Out Cold
 Release Date: 2001-11-21
 Genre: Comedy
  
+Movie: Corky Romano
+Release Date: 2001-10-12
+Genre: Comedy
+ 
+Movie: Beauty and the Beast (IMAX)
+Release Date: 2002-01-01
+Genre: Musical
+ 
 Movie: Snow Dogs
 Release Date: 2002-01-18
 Genre: Comedy
+ 
+Movie: The Royal Tenenbaums
+Release Date: 2001-12-14
+Genre: Black Comedy
+ 
+Movie: Peter Pan: Return to Neverland
+Release Date: 2002-02-15
+Genre: Adventure
+ 
+Movie: Frank McKlusky C.I.
+Release Date: 2002-01-01
+Genre: 
  
 Movie: The Count of Monte Cristo
 Release Date: 2002-01-25
@@ -1438,24 +1442,20 @@ Movie: Sorority Boys
 Release Date: 2002-03-22
 Genre: Comedy
  
-Movie: Peter Pan: Return to Neverland
-Release Date: 2002-02-15
-Genre: Adventure
- 
-Movie: The Rookie
-Release Date: 2002-03-29
-Genre: Drama
- 
-Movie: Big Trouble
-Release Date: 2002-04-05
-Genre: Comedy
+Movie: Reign of Fire
+Release Date: 2002-02-19
+Genre: Action
  
 Movie: ESPN's Ultimate X - The Movie
 Release Date: 2002-05-10
 Genre: Documentary
  
-Movie: Reign of Fire
-Release Date: 2002-02-19
+Movie: The Rookie
+Release Date: 2002-03-29
+Genre: Drama
+ 
+Movie: Bad Company
+Release Date: 2002-06-07
 Genre: Action
  
 Movie: Lilo & Stitch
@@ -1470,21 +1470,25 @@ Movie: Sen to Chihiro no Kamikakushi
 Release Date: 2002-09-20
 Genre: Adventure
  
-Movie: Sweet Home Alabama
-Release Date: 2002-09-27
-Genre: Comedy
- 
 Movie: Signs
 Release Date: 2002-08-02
 Genre: Thriller/Suspense
  
-Movie: Tuck Everlasting
-Release Date: 2002-10-11
-Genre: Drama
+Movie: Big Trouble
+Release Date: 2002-04-05
+Genre: Comedy
+ 
+Movie: Sweet Home Alabama
+Release Date: 2002-09-27
+Genre: Comedy
  
 Movie: The Santa Clause 2
 Release Date: 2002-11-01
 Genre: Comedy
+ 
+Movie: Tuck Everlasting
+Release Date: 2002-10-11
+Genre: Drama
  
 Movie: Treasure Planet
 Release Date: 2002-11-27
@@ -1494,6 +1498,14 @@ Movie: The Hot Chick
 Release Date: 2002-12-13
 Genre: Comedy
  
+Movie: 25th Hour
+Release Date: 2002-12-19
+Genre: Drama
+ 
+Movie: The Recruit
+Release Date: 2003-01-31
+Genre: Thriller/Suspense
+ 
 Movie: Moonlight Mile
 Release Date: 2002-09-27
 Genre: Drama
@@ -1502,21 +1514,9 @@ Movie: Shanghai Knights
 Release Date: 2003-02-07
 Genre: Adventure
  
-Movie: The Recruit
-Release Date: 2003-01-31
-Genre: Thriller/Suspense
- 
 Movie: Bringing Down the House
 Release Date: 2003-03-07
 Genre: Comedy
- 
-Movie: Bad Company
-Release Date: 2002-06-07
-Genre: Action
- 
-Movie: The Jungle Book 2
-Release Date: 2003-02-14
-Genre: Adventure
  
 Movie: Piglet's Big Movie
 Release Date: 2003-03-21
@@ -1526,129 +1526,129 @@ Movie: Ghosts of the Abyss
 Release Date: 2003-04-11
 Genre: Documentary
  
-Movie: The Lizzie McGuire Movie
-Release Date: 2003-05-02
-Genre: Comedy
- 
-Movie: Finding Nemo
-Release Date: 2003-05-30
-Genre: Adventure
- 
 Movie: Holes
 Release Date: 2003-04-18
 Genre: Drama
  
-Movie: 25th Hour
-Release Date: 2002-12-19
-Genre: Drama
+Movie: The Jungle Book 2
+Release Date: 2003-02-14
+Genre: Adventure
  
 Movie: Pirates of the Caribbean: The Curse o…
 Release Date: 2003-07-09
 Genre: Adventure
  
+Movie: Finding Nemo
+Release Date: 2003-05-30
+Genre: Adventure
+ 
+Movie: The Lizzie McGuire Movie
+Release Date: 2003-05-02
+Genre: Comedy
+ 
 Movie: Cold Creek Manor
 Release Date: 2003-09-19
 Genre: Thriller/Suspense
+ 
+Movie: Open Range
+Release Date: 2003-08-15
+Genre: Western
+ 
+Movie: Under the Tuscan Sun
+Release Date: 2003-09-26
+Genre: Comedy
+ 
+Movie: Brother Bear
+Release Date: 2003-10-24
+Genre: Adventure
  
 Movie: Freaky Friday
 Release Date: 2003-08-06
 Genre: Comedy
  
-Movie: Under the Tuscan Sun
-Release Date: 2003-09-26
+Movie: The Haunted Mansion
+Release Date: 2003-11-26
 Genre: Comedy
  
 Movie: Veronica Guerin
 Release Date: 2003-10-17
 Genre: Drama
  
-Movie: Brother Bear
-Release Date: 2003-10-24
+Movie: Young Black Stallion
+Release Date: 2003-12-25
 Genre: Adventure
  
-Movie: The Haunted Mansion
-Release Date: 2003-11-26
+Movie: Teacher's Pet: The Movie
+Release Date: 2004-01-16
 Genre: Comedy
  
 Movie: Calendar Girls
 Release Date: 2003-12-19
 Genre: Comedy
  
-Movie: Teacher's Pet: The Movie
-Release Date: 2004-01-16
-Genre: Comedy
+Movie: Miracle
+Release Date: 2004-02-06
+Genre: Drama
  
 Movie: Confessions of a Teenage Drama Queen
 Release Date: 2004-02-20
-Genre: Comedy
- 
-Movie: Open Range
-Release Date: 2003-08-15
-Genre: Western
- 
-Movie: Young Black Stallion
-Release Date: 2003-12-25
-Genre: Adventure
- 
-Movie: The Ladykillers
-Release Date: 2004-03-26
-Genre: Comedy
- 
-Movie: Hidalgo
-Release Date: 2004-03-05
-Genre: Western
- 
-Movie: Home on the Range
-Release Date: 2004-04-02
 Genre: Comedy
  
 Movie: The Alamo
 Release Date: 2004-04-09
 Genre: Western
  
-Movie: Raising Helen
-Release Date: 2004-05-28
+Movie: The Ladykillers
+Release Date: 2004-03-26
+Genre: Comedy
+ 
+Movie: Home on the Range
+Release Date: 2004-04-02
 Genre: Comedy
  
 Movie: Around the World in 80 Days
 Release Date: 2004-06-16
 Genre: Adventure
  
+Movie: Hidalgo
+Release Date: 2004-03-05
+Genre: Western
+ 
+Movie: Raising Helen
+Release Date: 2004-05-28
+Genre: Comedy
+ 
 Movie: King Arthur
 Release Date: 2004-07-07
+Genre: Adventure
+ 
+Movie: The Village
+Release Date: 2004-07-30
+Genre: Thriller/Suspense
+ 
+Movie: The Princess Diaries 2: Royal Engagement
+Release Date: 2004-08-11
+Genre: Romantic Comedy
+ 
+Movie: Mr. 3000
+Release Date: 2004-09-17
+Genre: Comedy
+ 
+Movie: The Last Shot
+Release Date: 2004-09-24
+Genre: Comedy
+ 
+Movie: The Incredibles
+Release Date: 2004-11-05
 Genre: Adventure
  
 Movie: America's Heart and Soul
 Release Date: 2004-07-02
 Genre: Documentary
  
-Movie: The Princess Diaries 2: Royal Engagement
-Release Date: 2004-08-11
-Genre: Romantic Comedy
- 
-Movie: The Last Shot
-Release Date: 2004-09-24
+Movie: The Life Aquatic with Steve Zissou
+Release Date: 2004-12-10
 Genre: Comedy
- 
-Movie: The Village
-Release Date: 2004-07-30
-Genre: Thriller/Suspense
- 
-Movie: Ladder 49
-Release Date: 2004-10-01
-Genre: Action
- 
-Movie: Miracle
-Release Date: 2004-02-06
-Genre: Drama
- 
-Movie: Mr. 3000
-Release Date: 2004-09-17
-Genre: Comedy
- 
-Movie: The Incredibles
-Release Date: 2004-11-05
-Genre: Adventure
  
 Movie: National Treasure
 Release Date: 2004-11-19
@@ -1662,37 +1662,37 @@ Movie: Pooh's Heffalump Movie
 Release Date: 2005-02-11
 Genre: Adventure
  
-Movie: The Life Aquatic with Steve Zissou
-Release Date: 2004-12-10
-Genre: Comedy
- 
-Movie: A Lot Like Love
-Release Date: 2005-04-22
+Movie: Ice Princess
+Release Date: 2005-03-18
 Genre: Comedy
  
 Movie: The Pacifier
 Release Date: 2005-03-04
 Genre: Comedy
  
+Movie: A Lot Like Love
+Release Date: 2005-04-22
+Genre: Comedy
+ 
 Movie: The Hitchhiker's Guide to the Galaxy
 Release Date: 2005-04-29
-Genre: Comedy
- 
-Movie: Herbie: Fully Loaded
-Release Date: 2005-06-22
-Genre: Comedy
- 
-Movie: Hauru no ugoku shiro
-Release Date: 2005-06-10
-Genre: Adventure
- 
-Movie: Ice Princess
-Release Date: 2005-03-18
 Genre: Comedy
  
 Movie: Dark Water
 Release Date: 2005-07-08
 Genre: Thriller/Suspense
+ 
+Movie: Hauru no ugoku shiro
+Release Date: 2005-06-10
+Genre: Adventure
+ 
+Movie: Ladder 49
+Release Date: 2004-10-01
+Genre: Action
+ 
+Movie: Herbie: Fully Loaded
+Release Date: 2005-06-22
+Genre: Comedy
  
 Movie: Valiant
 Release Date: 2005-08-19
@@ -1706,81 +1706,81 @@ Movie: The Greatest Game Ever Played
 Release Date: 2005-09-30
 Genre: Drama
  
-Movie: Shopgirl
-Release Date: 2005-10-21
-Genre: Drama
- 
 Movie: Sky High
 Release Date: 2005-07-29
+Genre: Adventure
+ 
+Movie: Chicken Little
+Release Date: 2005-11-04
 Genre: Adventure
  
 Movie: The Chronicles of Narnia: The Lion, t…
 Release Date: 2005-12-09
 Genre: Adventure
  
-Movie: Casanova
-Release Date: 2005-12-25
+Movie: Shopgirl
+Release Date: 2005-10-21
 Genre: Drama
  
 Movie: Glory Road
 Release Date: 2006-01-13
 Genre: Drama
  
-Movie: Chicken Little
-Release Date: 2005-11-04
-Genre: Adventure
+Movie: Annapolis
+Release Date: 2006-01-27
+Genre: Drama
  
 Movie: Roving Mars
 Release Date: 2006-01-27
 Genre: Documentary
  
-Movie: Eight Below
-Release Date: 2006-02-17
-Genre: Adventure
- 
 Movie: The Shaggy Dog
 Release Date: 2006-03-10
 Genre: Comedy
  
-Movie: Annapolis
-Release Date: 2006-01-27
+Movie: Casanova
+Release Date: 2005-12-25
 Genre: Drama
  
-Movie: Stay Alive
-Release Date: 2006-03-24
-Genre: Horror
- 
-Movie: The Wild
-Release Date: 2006-04-14
-Genre: Adventure
- 
-Movie: Goal! The Dream Begins
-Release Date: 2006-05-12
-Genre: Drama
- 
-Movie: Pirates of the Caribbean: Dead Man’…
-Release Date: 2006-07-07
+Movie: Eight Below
+Release Date: 2006-02-17
 Genre: Adventure
  
 Movie: Stick It
 Release Date: 2006-04-28
 Genre: Comedy
  
-Movie: Step Up
-Release Date: 2006-08-11
+Movie: Stay Alive
+Release Date: 2006-03-24
+Genre: Horror
+ 
+Movie: Goal! The Dream Begins
+Release Date: 2006-05-12
 Genre: Drama
+ 
+Movie: Cars
+Release Date: 2006-06-09
+Genre: Comedy
+ 
+Movie: The Wild
+Release Date: 2006-04-14
+Genre: Adventure
+ 
+Movie: Pirates of the Caribbean: Dead Man’…
+Release Date: 2006-07-07
+Genre: Adventure
  
 Movie: Invincible
 Release Date: 2006-08-25
 Genre: Drama
  
-Movie: The Guardian
-Release Date: 2006-09-29
-Genre: Action
- 
 Movie: The Prestige
 Release Date: 2006-10-20
 Genre: Thriller/Suspense
+ 
+Movie: The Guardian
+Release Date: 2006-09-29
+Genre: Action
  
 Movie: Tim Burton's The Nightmare Before Chr…
 Release Date: 2006-10-20
@@ -1814,12 +1814,12 @@ Movie: Meet the Robinsons
 Release Date: 2007-03-30
 Genre: Adventure
  
-Movie: The Lookout
-Release Date: 2007-03-30
-Genre: Drama
- 
 Movie: The Hoax
 Release Date: 2007-04-06
+Genre: Drama
+ 
+Movie: The Lookout
+Release Date: 2007-03-30
 Genre: Drama
  
 Movie: The Invisible
@@ -1858,21 +1858,21 @@ Movie: Hannah Montana/Miley Cyrus: Best of B…
 Release Date: 2008-02-01
 Genre: Concert/Performance
  
-Movie: The Chronicles of Narnia: Prince Caspian
-Release Date: 2008-05-16
-Genre: Adventure
+Movie: College Road Trip
+Release Date: 2008-03-07
+Genre: Comedy
  
 Movie: Step Up 2 the Streets
 Release Date: 2008-02-14
 Genre: Drama
  
-Movie: College Road Trip
-Release Date: 2008-03-07
-Genre: Comedy
+Movie: The Chronicles of Narnia: Prince Caspian
+Release Date: 2008-05-16
+Genre: Adventure
  
-Movie: Cars
-Release Date: 2006-06-09
-Genre: Comedy
+Movie: WALL-E
+Release Date: 2008-06-27
+Genre: Adventure
  
 Movie: Swing Vote
 Release Date: 2008-08-01
@@ -1886,97 +1886,97 @@ Movie: Beverly Hills Chihuahua
 Release Date: 2008-10-03
 Genre: Comedy
  
-Movie: WALL-E
-Release Date: 2008-06-27
-Genre: Adventure
- 
-Movie: Morning Light
-Release Date: 2008-10-17
-Genre: Documentary
+Movie: Miracle at St. Anna
+Release Date: 2008-09-26
+Genre: Drama
  
 Movie: High School Musical 3: Senior Year
 Release Date: 2008-10-24
 Genre: Musical
  
-Movie: Miracle at St. Anna
-Release Date: 2008-09-26
-Genre: Drama
- 
-Movie: Confessions of a Shopaholic
-Release Date: 2009-02-13
-Genre: Romantic Comedy
- 
-Movie: Bedtime Stories
-Release Date: 2008-12-25
+Movie: Bolt
+Release Date: 2008-11-21
 Genre: Comedy
  
-Movie: Race to Witch Mountain
-Release Date: 2009-03-13
-Genre: Adventure
+Movie: Step Up
+Release Date: 2006-08-11
+Genre: Drama
  
 Movie: Jonas Brothers: The 3D Concert Experi…
 Release Date: 2009-02-27
 Genre: Concert/Performance
  
-Movie: Bolt
-Release Date: 2008-11-21
-Genre: Comedy
+Movie: Morning Light
+Release Date: 2008-10-17
+Genre: Documentary
+ 
+Movie: Confessions of a Shopaholic
+Release Date: 2009-02-13
+Genre: Romantic Comedy
+ 
+Movie: Race to Witch Mountain
+Release Date: 2009-03-13
+Genre: Adventure
  
 Movie: Hannah Montana the Movie
 Release Date: 2009-04-10
 Genre: Drama
  
-Movie: The Proposal
-Release Date: 2009-06-19
-Genre: Romantic Comedy
+Movie: Bedtime Stories
+Release Date: 2008-12-25
+Genre: Comedy
  
 Movie: Earth
 Release Date: 2009-04-22
 Genre: Documentary
  
-Movie: Gake no ue no Ponyo
-Release Date: 2009-08-14
+Movie: The Proposal
+Release Date: 2009-06-19
+Genre: Romantic Comedy
+ 
+Movie: G-Force
+Release Date: 2009-07-24
 Genre: Adventure
  
 Movie: X Games 3D: The Movie
 Release Date: 2009-08-21
 Genre: Documentary
  
-Movie: Up
-Release Date: 2009-05-29
-Genre: Adventure
- 
-Movie: G-Force
-Release Date: 2009-07-24
-Genre: Adventure
- 
-Movie: Toy Story 3D Double Feature
-Release Date: 2009-10-02
+Movie: Gake no ue no Ponyo
+Release Date: 2009-08-14
 Genre: Adventure
  
 Movie: Walt and El Grupo
 Release Date: 2009-09-10
 Genre: Documentary
  
-Movie: The Princess and the Frog
-Release Date: 2009-11-25
-Genre: Adventure
+Movie: Surrogates
+Release Date: 2009-09-25
+Genre: Action
  
 Movie: Disney's A Christmas Carol
 Release Date: 2009-11-06
 Genre: Drama
  
-Movie: Surrogates
-Release Date: 2009-09-25
-Genre: Action
+Movie: Toy Story 3D Double Feature
+Release Date: 2009-10-02
+Genre: Adventure
  
-Movie: When in Rome
-Release Date: 2010-01-29
-Genre: Romantic Comedy
+Movie: Old Dogs
+Release Date: 2009-11-25
+Genre: Comedy
+ 
+Movie: The Princess and the Frog
+Release Date: 2009-11-25
+Genre: Adventure
  
 Movie: Alice in Wonderland
 Release Date: 2010-03-05
 Genre: Adventure
+ 
+Movie: When in Rome
+Release Date: 2010-01-29
+Genre: Romantic Comedy
  
 Movie: Waking Sleeping Beauty
 Release Date: 2010-03-26
@@ -1986,13 +1986,13 @@ Movie: The Last Song
 Release Date: 2010-03-31
 Genre: Drama
  
+Movie: Up
+Release Date: 2009-05-29
+Genre: Adventure
+ 
 Movie: Oceans
 Release Date: 2010-04-22
 Genre: Documentary
- 
-Movie: Prince of Persia: Sands of Time
-Release Date: 2010-05-28
-Genre: Action
  
 Movie: Toy Story 3
 Release Date: 2010-06-18
@@ -2002,37 +2002,41 @@ Movie: The Sorcerer's Apprentice
 Release Date: 2010-07-14
 Genre: Adventure
  
-Movie: Gedo Senki (Tales from Earthsea)
-Release Date: 2010-08-13
-Genre: Adventure
- 
-Movie: Old Dogs
-Release Date: 2009-11-25
-Genre: Comedy
- 
 Movie: Step Up 3D
 Release Date: 2010-08-06
 Genre: Drama
+ 
+Movie: Gedo Senki (Tales from Earthsea)
+Release Date: 2010-08-13
+Genre: Adventure
  
 Movie: Secretariat
 Release Date: 2010-10-08
 Genre: Drama
  
-Movie: Gnomeo and Juliet
-Release Date: 2011-02-11
+Movie: Prince of Persia: Sands of Time
+Release Date: 2010-05-28
+Genre: Action
+ 
+Movie: You Again
+Release Date: 2010-09-24
 Genre: Comedy
  
 Movie: Tron: Legacy
 Release Date: 2010-12-17
 Genre: Adventure
  
+Movie: Gnomeo and Juliet
+Release Date: 2011-02-11
+Genre: Comedy
+ 
 Movie: I am Number Four
 Release Date: 2011-02-18
 Genre: Adventure
  
-Movie: Tangled
-Release Date: 2010-11-24
-Genre: Adventure
+Movie: African Cats
+Release Date: 2011-04-22
+Genre: Documentary
  
 Movie: Mars Needs Moms
 Release Date: 2011-03-11
@@ -2042,37 +2046,33 @@ Movie: Zokkomon
 Release Date: 2011-04-22
 Genre: Adventure
  
-Movie: African Cats
-Release Date: 2011-04-22
-Genre: Documentary
- 
-Movie: Pirates of the Caribbean: On Stranger…
-Release Date: 2011-05-20
-Genre: Adventure
- 
-Movie: Prom
-Release Date: 2011-04-29
-Genre: Comedy
- 
-Movie: You Again
-Release Date: 2010-09-24
-Genre: Comedy
- 
-Movie: Winnie the Pooh
-Release Date: 2011-07-15
+Movie: Tangled
+Release Date: 2010-11-24
 Genre: Adventure
  
 Movie: Cars 2
 Release Date: 2011-06-24
 Genre: Adventure
  
-Movie: Fright Night
-Release Date: 2011-08-19
-Genre: Horror
+Movie: Pirates of the Caribbean: On Stranger…
+Release Date: 2011-05-20
+Genre: Adventure
  
 Movie: The Help
 Release Date: 2011-08-10
 Genre: Drama
+ 
+Movie: Winnie the Pooh
+Release Date: 2011-07-15
+Genre: Adventure
+ 
+Movie: Fright Night
+Release Date: 2011-08-19
+Genre: Horror
+ 
+Movie: Prom
+Release Date: 2011-04-29
+Genre: Comedy
  
 Movie: Real Steel
 Release Date: 2011-10-07
@@ -2082,9 +2082,9 @@ Movie: The Muppets
 Release Date: 2011-11-23
 Genre: Comedy
  
-Movie: War Horse
-Release Date: 2011-12-25
-Genre: Drama
+Movie: The Secret World of Arietty
+Release Date: 2012-02-17
+Genre: Adventure
  
 Movie: John Carter
 Release Date: 2012-03-09
@@ -2094,41 +2094,41 @@ Movie: Chimpanzee
 Release Date: 2012-04-20
 Genre: Documentary
  
-Movie: The Secret World of Arietty
-Release Date: 2012-02-17
+Movie: War Horse
+Release Date: 2011-12-25
+Genre: Drama
+ 
+Movie: The Avengers
+Release Date: 2012-05-04
+Genre: Action
+ 
+Movie: People Like Us
+Release Date: 2012-06-29
+Genre: Drama
+ 
+Movie: The Odd Life of Timothy Green
+Release Date: 2012-08-15
+Genre: Drama
+ 
+Movie: Wreck-It Ralph
+Release Date: 2012-11-02
 Genre: Adventure
  
 Movie: Brave
 Release Date: 2012-06-22
 Genre: Adventure
  
-Movie: The Avengers
-Release Date: 2012-05-04
-Genre: Action
- 
-Movie: The Odd Life of Timothy Green
-Release Date: 2012-08-15
-Genre: Drama
- 
 Movie: Frankenweenie
 Release Date: 2012-10-05
 Genre: Comedy
- 
-Movie: Wreck-It Ralph
-Release Date: 2012-11-02
-Genre: Adventure
- 
-Movie: Lincoln
-Release Date: 2012-11-09
-Genre: Drama
  
 Movie: Oz the Great and Powerful
 Release Date: 2013-03-08
 Genre: Adventure
  
-Movie: People Like Us
-Release Date: 2012-06-29
-Genre: Drama
+Movie: Iron Man 3
+Release Date: 2013-05-03
+Genre: Action
  
 Movie: Monsters University
 Release Date: 2013-06-21
@@ -2142,57 +2142,57 @@ Movie: Disney Planes
 Release Date: 2013-08-09
 Genre: Comedy
  
-Movie: Iron Man 3
-Release Date: 2013-05-03
-Genre: Action
- 
 Movie: The Fifth Estate
 Release Date: 2013-10-18
+Genre: Drama
+ 
+Movie: Kaze Tachinu
+Release Date: 2013-11-08
 Genre: Drama
  
 Movie: Thor: The Dark World
 Release Date: 2013-11-08
 Genre: Adventure
  
-Movie: Frozen
-Release Date: 2013-11-22
-Genre: Adventure
- 
-Movie: Kaze Tachinu
-Release Date: 2013-11-08
-Genre: Drama
- 
-Movie: Saving Mr. Banks
-Release Date: 2013-12-13
+Movie: Lincoln
+Release Date: 2012-11-09
 Genre: Drama
  
 Movie: Delivery Man
 Release Date: 2013-11-22
 Genre: Comedy
  
+Movie: Saving Mr. Banks
+Release Date: 2013-12-13
+Genre: Drama
+ 
 Movie: Muppets Most Wanted
 Release Date: 2014-03-21
 Genre: Comedy
- 
-Movie: Captain America: The Winter Soldier
-Release Date: 2014-04-04
-Genre: Action
- 
-Movie: Million Dollar Arm
-Release Date: 2014-05-10
-Genre: Drama
  
 Movie: Need for Speed
 Release Date: 2014-03-14
 Genre: Action
  
-Movie: Planes: Fire and Rescue
-Release Date: 2014-07-18
-Genre: Adventure
+Movie: Captain America: The Winter Soldier
+Release Date: 2014-04-04
+Genre: Action
  
 Movie: Bears
 Release Date: 2014-04-18
 Genre: Documentary
+ 
+Movie: Million Dollar Arm
+Release Date: 2014-05-10
+Genre: Drama
+ 
+Movie: Frozen
+Release Date: 2013-11-22
+Genre: Adventure
+ 
+Movie: Maleficent
+Release Date: 2014-05-30
+Genre: Adventure
  
 Movie: Guardians of the Galaxy
 Release Date: 2014-08-01
@@ -2210,13 +2210,13 @@ Movie: Big Hero 6
 Release Date: 2014-11-07
 Genre: Adventure
  
-Movie: Into the Woods
-Release Date: 2014-12-25
-Genre: Musical
- 
-Movie: Maleficent
-Release Date: 2014-05-30
+Movie: Planes: Fire and Rescue
+Release Date: 2014-07-18
 Genre: Adventure
+ 
+Movie: McFarland, USA
+Release Date: 2015-02-20
+Genre: Drama
  
 Movie: Strange Magic
 Release Date: 2015-01-23
@@ -2226,9 +2226,9 @@ Movie: Monkey Kingdom
 Release Date: 2015-04-17
 Genre: Documentary
  
-Movie: McFarland, USA
-Release Date: 2015-02-20
-Genre: Drama
+Movie: Into the Woods
+Release Date: 2014-12-25
+Genre: Musical
  
 Movie: Avengers: Age of Ultron
 Release Date: 2015-05-01
@@ -2258,21 +2258,21 @@ Movie: The Good Dinosaur
 Release Date: 2015-11-25
 Genre: Adventure
  
-Movie: The Finest Hours
-Release Date: 2016-01-29
-Genre: Thriller/Suspense
- 
 Movie: Star Wars Ep. VII: The Force Awakens
 Release Date: 2015-12-18
-Genre: Adventure
- 
-Movie: Zootopia
-Release Date: 2016-03-04
 Genre: Adventure
  
 Movie: The Jungle Book
 Release Date: 2016-04-15
 Genre: Adventure
+ 
+Movie: The Finest Hours
+Release Date: 2016-01-29
+Genre: Thriller/Suspense
+ 
+Movie: A Beautiful Planet
+Release Date: 2016-04-29
+Genre: Documentary
  
 Movie: Captain America: Civil War
 Release Date: 2016-05-06
@@ -2286,35 +2286,35 @@ Movie: Finding Dory
 Release Date: 2016-06-17
 Genre: Adventure
  
-Movie: A Beautiful Planet
-Release Date: 2016-04-29
-Genre: Documentary
- 
 Movie: Pete’s Dragon
 Release Date: 2016-08-12
+Genre: Adventure
+ 
+Movie: Zootopia
+Release Date: 2016-03-04
 Genre: Adventure
  
 Movie: The Light Between Oceans
 Release Date: 2016-09-02
 Genre: Drama
  
+Movie: The BFG
+Release Date: 2016-07-01
+Genre: Adventure
+ 
 Movie: Queen of Katwe
 Release Date: 2016-09-23
 Genre: Drama
  
-Movie: Doctor Strange
-Release Date: 2016-11-04
+Movie: Moana
+Release Date: 2016-11-23
 Genre: Adventure
  
 Movie: Rogue One: A Star Wars Story
 Release Date: 2016-12-16
 Genre: Adventure
  
-Movie: Moana
-Release Date: 2016-11-23
-Genre: Adventure
- 
-Movie: The BFG
-Release Date: 2016-07-01
+Movie: Doctor Strange
+Release Date: 2016-11-04
 Genre: Adventure
  

@@ -1,0 +1,5 @@
+Pseudocódigo.
+1. Permitir que el usuario ingrese el nombre de una fruta (string).
+2. Si el nombre de la fruta está en el arreglo, mostrar un mensaje (Si se encuentra en la lista).
+3. Si el nombre de la fruta no está en el areglo, mostrar un mensaje (No se encuentra en la lista) y
+volver a permitir al punto 1.
