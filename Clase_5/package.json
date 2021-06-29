@@ -1,14 +1,12 @@
 {
-  "name": "clase_5",
+  "name": "clase_6",
   "version": "1.0.0",
-  "description": "Quiz_1",
+  "description": "Trabajo en Clase",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Gabriela Vargas",
-  "license": "ISC",
-  "dependencies": {
-    "colors": "^1.4.0"
-  }
+  "license": "ISC"
 }

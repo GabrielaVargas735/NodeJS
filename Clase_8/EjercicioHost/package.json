@@ -1,12 +1,13 @@
 {
-  "name": "clase_6",
+  "name": "hola",
   "version": "1.0.0",
-  "description": "Trabajo en Clase",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Gabriela Vargas",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
